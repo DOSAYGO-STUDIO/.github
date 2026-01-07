@@ -25,20 +25,6 @@ Enterprise-grade remote browser isolation platform with 60 FPS streaming, cross-
 - 📦 Commercial product with automation support (Playwright/Puppeteer)
 - ✨ Features: PDF viewing, DevTools access, team browsing, data leakage prevention
 
-#### **BrowserGap**
-Open-source remote browser isolation for privacy, security, and automation. Free for governments and non-profits.
-
-- 🔗 [BrowserGap Client Library](https://github.com/DO-SAY-GO/browsergap.js) | [GitLab](https://gitlab.com/dosyago/browsergap)
-- 🎯 Clientless architecture for secure document viewing and co-browsing
-- 🆓 Open-source alternative to commercial solutions
-
-#### **ViewFinder**
-Embeddable virtualized browser UI running client-side in JavaScript/HTML for secure browsing and automation.
-
-- 🔗 [ViewFinder on npm](https://www.npmjs.com/search?q=viewfinderjs)
-- 🖥️ Client-side browser virtualization
-- 🔐 Secure document viewing and interactive experiences
-
 ### 📰 Data & Archive Projects
 
 #### **HackerBook**
@@ -100,34 +86,10 @@ Quantum communication proposal leveraging stochastic Bohmian mechanics for entan
 - 📄 Includes white paper and research documentation
 - 🔬 Highly speculative theoretical research
 
-### 🛡️ Security & OSINT Tools
-
-#### **osgint**
-OSINT tooling for researching GitHub users (email/username mapping, account creation dates).
-
-- 🔗 [Repository](https://github.com/DOSAYGO-STUDIO/osgint)
-- 🐍 Python-based intelligence gathering
-- 🔍 GitHub user research capabilities
-
-#### **rfhunter**
-RF signal hunting device for detecting hidden cameras and privacy threats.
-
-- 🔗 [Repository](https://github.com/DOSAYGO-STUDIO/rfhunter)
-- 💻 C++ implementation
-- 🔒 Privacy and security focus
-
-#### **aegir-gps-tracker**
-GPS/LTE/Iridium device tracker for localization technologies.
-
-- 🔗 [Repository](https://github.com/DOSAYGO-STUDIO/aegir-gps-tracker)
-- 📡 C language implementation
-- 🗺️ Multi-network tracking support
-
 ### 🗜️ Other Notable Projects
 
 - **[LZEL](https://github.com/DOSAYGO-STUDIO/LZEL)** — Lempel-Ziv EL compression algorithm
 - **[cornice](https://github.com/DOSAYGO-STUDIO/cornice)** — C++ search tool for 64-bit primes with avalanche properties (cryptographic applications)
-- **[goodhart_hash_supplemental](https://github.com/DOSAYGO-STUDIO/goodhart_hash_supplemental)** — Rust implementation for hashing research
 
 ## 🛠️ Technology Stack
 
@@ -146,7 +108,7 @@ DOSAYGO STUDIO maintains a mix of open-source and commercial projects. Most repo
 - Comprehensive README documentation
 - Build and installation instructions
 - Usage examples and demos
-- Open-source licenses (MIT, Apache-2.0, etc.)
+- Mix of proprietary & Open-source licenses (MIT, Apache-2.0, etc.)
 
 ## 🔗 Links
 

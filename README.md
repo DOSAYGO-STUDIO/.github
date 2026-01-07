@@ -28,7 +28,7 @@ Enterprise-grade remote browser isolation platform with 60 FPS streaming, cross-
 #### **BrowserGap**
 Open-source remote browser isolation for privacy, security, and automation. Free for governments and non-profits.
 
-- 🔗 [BrowserGap Repository](https://github.com/em3ndez/BrowserGap)
+- 🔗 [BrowserGap Client Library](https://github.com/DO-SAY-GO/browsergap.js) | [GitLab](https://gitlab.com/dosyago/browsergap)
 - 🎯 Clientless architecture for secure document viewing and co-browsing
 - 🆓 Open-source alternative to commercial solutions
 
@@ -76,7 +76,7 @@ Experimental research space for innovative hashing algorithms and concepts.
 ### 🔢 Mathematical Research
 
 #### **irradix**
-Novel binary representation of integers using Base-φ (the golden ratio).
+Novel binary representation of integers using Base-φ (phi, the golden ratio).
 
 - 🔗 [Repository](https://github.com/DOSAYGO-STUDIO/irradix)
 - 📐 JavaScript implementation exploring mathematical properties
@@ -105,12 +105,14 @@ Quantum communication proposal leveraging stochastic Bohmian mechanics for entan
 #### **osgint**
 OSINT tooling for researching GitHub users (email/username mapping, account creation dates).
 
+- 🔗 [Repository](https://github.com/DOSAYGO-STUDIO/osgint)
 - 🐍 Python-based intelligence gathering
 - 🔍 GitHub user research capabilities
 
 #### **rfhunter**
 RF signal hunting device for detecting hidden cameras and privacy threats.
 
+- 🔗 [Repository](https://github.com/DOSAYGO-STUDIO/rfhunter)
 - 💻 C++ implementation
 - 🔒 Privacy and security focus
 
@@ -123,9 +125,9 @@ GPS/LTE/Iridium device tracker for localization technologies.
 
 ### 🗜️ Other Notable Projects
 
-- **LZEL** — Lempel-Ziv EL compression algorithm
-- **cornice** — C++ search tool for 64-bit primes with avalanche properties (cryptographic applications)
-- **goodhart_hash_supplemental** — Rust implementation for hashing research
+- **[LZEL](https://github.com/DOSAYGO-STUDIO/LZEL)** — Lempel-Ziv EL compression algorithm
+- **[cornice](https://github.com/DOSAYGO-STUDIO/cornice)** — C++ search tool for 64-bit primes with avalanche properties (cryptographic applications)
+- **[goodhart_hash_supplemental](https://github.com/DOSAYGO-STUDIO/goodhart_hash_supplemental)** — Rust implementation for hashing research
 
 ## 🛠️ Technology Stack
 

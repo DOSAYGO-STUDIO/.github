@@ -25,6 +25,15 @@ Enterprise-grade remote browser isolation platform with 60 FPS streaming, cross-
 - 📦 Commercial product with automation support (Playwright/Puppeteer)
 - ✨ Features: PDF viewing, DevTools access, team browsing, data leakage prevention
 
+### 🎵 Generative Music & Creative Code
+
+#### **Less Talk**
+An original big-beat homage in Web Audio. Two synthesized voices keep talking; the band keeps getting louder until the brass shuts them down. One HTML file, no libraries, everything synthesized.
+
+- 🔗 [Play it](https://dosaygo-studio.github.io/less-talk/) | [Repository](https://github.com/DOSAYGO-STUDIO/less-talk)
+- 🥁 Breakbeats, wah guitar, organ, bass and a brass section, all oscillators and noise
+- 🗣️ Formant "talkers" in speech bubbles that pop when the drop lands
+
 ### 📰 Data & Archive Projects
 
 #### **HackerBook**
